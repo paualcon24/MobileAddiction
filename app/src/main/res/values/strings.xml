@@ -1,0 +1,14 @@
+
+<resources>
+    <string name="app_name">Mobile Addiction</string>
+
+    <string name="SelAppBut">Seleecionar Aplicaciones</string>
+
+    <string name="LimitBut">Limitar Tiempo de Uso</string>
+
+    <string name="AvisosBut">Ajustar Frecuencia de Avisos</string>
+
+    <string name="InfoBut">Información</string>
+</resources>
+
+

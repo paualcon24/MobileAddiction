@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobile Addiction</string>
+
+    <string name="SelAppBut">Select Apps</string>
+
+    <string name="LimitBut">Screen Time Management</string>
+
+    <string name="AvisosBut">Adjust notifications ratio</string>
+
+    <string name="InfoBut">Information</string>
+
+</resources>
